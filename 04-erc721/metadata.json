@@ -1,0 +1,12 @@
+{
+    "name": "KFCWatermelon",
+    "description": "A unique KFCWatermelon NFT",
+    "symbol": "FCW",
+    "image": "https://i.imgur.com/bQRs3wb.jpeg",
+    "attributes": [
+        {
+            "trait_type": "Flavor",
+            "value": "Watermelon"
+        }
+    ]
+}
