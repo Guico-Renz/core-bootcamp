@@ -56,3 +56,4 @@ For change request, please clone and submit pull-request. Or e-mail at mark@theb
 
 ERC20 = 0x6D860cc20cF2De4302E5c7A9cF9C6BFE0dC0f71b
 ERC721 = 0xf8FAF670f846cA3bE8CC545885fDf17D5D1BCeD9
+TX = 0x50cfdf355f505c13ef3f79305a05d161c829facd0cc1bb1a9e54b2be55539db6
