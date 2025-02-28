@@ -33,8 +33,8 @@ const account = privateKeyToAccount(`0x${privateKey}` as Hex);
   });
 
   const tx = await contract.write.recordSubmission([
-    'Renz',
-    'Guico-Renz',
+    'Josh',
+    'Josh-Sese',
     '0x6D860cc20cF2De4302E5c7A9cF9C6BFE0dC0f71b',
     '0xf8FAF670f846cA3bE8CC545885fDf17D5D1BCeD9'
     ]);    
